@@ -7,13 +7,12 @@ body {
 
 .container {
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 0;
     padding: 10px;
     background-color: #ffffff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     position: relative; /* Ustawienie pozycji względnej dla kontenera */
 }
-
 .przycisk-zamknij {
     position: absolute; /* Pozycja absolutna względem kontenera */
     top: 10px; /* Odstęp od góry */
