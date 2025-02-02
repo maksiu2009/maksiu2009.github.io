@@ -9,7 +9,6 @@ body {
     max-width: 1000px;
     margin: 0 auto;
     padding: 10px;
-    background-color: #ffffff;
     position: relative; /* Ustawienie pozycji względnej dla kontenera */
 }
 .przycisk-zamknij {
