@@ -187,7 +187,7 @@ nav {
     padding: 2px 5px; /* Wewnętrzny padding */
     font-size: 10px; /* Rozmiar czcionki */
     cursor: pointer; /* Kursor wskazujący */
-    margin: 2px; /* Margines */
+    margin: 2px 2px; /* Margines */
     display: flex;
     align-items: center; /* Wyrównanie wertykalne */
     justify-content: center; /* Wyrównanie horyzontalne */
