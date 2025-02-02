@@ -79,10 +79,11 @@ th {
     margin-bottom: 20px;
     font-size: 12px;
     color: #000000;
+    position: relative;
 }
 
 .info p {
-    margin: 2px 0;
+    margin: 2px 10px;
 }
 
 .day {
